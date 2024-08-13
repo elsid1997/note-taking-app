@@ -17,7 +17,7 @@ Note-Taking App
 
 1. Клонирование репозитория:
 
-   git clone https://github.com/yourusername/note-taking-app.git
+   git clone https://github.com/elsid1997/note-taking-app.git
    cd note-taking-app
 
 2. Установка зависимостей:
